@@ -1,0 +1,5 @@
+2#Hard Tree Bark
+4#Turtle Shell
+6#Small Buckler
+8#Iron Shield
+10#Massive Steel Shield

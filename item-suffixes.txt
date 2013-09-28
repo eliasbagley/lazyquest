@@ -1,0 +1,10 @@
+of Might#2 0 0 0
+of Cunning#1 1 0 0
+of Spellstrike#1 0 1 0
+of Bravery#1 0 0 1
+of Quickness#0 2 0 0
+of Hidden Magic#0 1 1 0
+of Thievery#0 1 0 1
+of Wizardy#0 0 2 0
+of Sorcery#0 0 1 1
+of Vitality#0 0 0 2

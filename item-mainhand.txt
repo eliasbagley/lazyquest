@@ -1,0 +1,8 @@
+2#Shortsword%Dagger%Staff%Bow
+4#Longsword%Knife%Crossbow
+6#Broadsword%Shank%Scepter%Longbow
+8#Scythe%Quarterstaff%Elven Bow
+10#Claymore%Bo Staff%Pistol
+12#Hatchet%Musket
+14#Axe%Rifle
+16#Battle Axe

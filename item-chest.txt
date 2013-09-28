@@ -1,0 +1,8 @@
+2#Rags
+4#Thick Coat
+6#Light Leather Vest
+8#Studded Leather
+10#Chainmail
+12#Monster Carapace
+14#Glass Reinforced Armor
+16#Black Dragon Hide

@@ -1,0 +1,4 @@
+2#Leather Cap
+4#Iron Helmet
+6#Metal Visor
+8#Skullcap

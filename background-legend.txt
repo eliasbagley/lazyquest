@@ -1,0 +1,14 @@
+background-bay-new#B U K S
+background-castle-new#A D J N P Q R T 1 2 4 5 6 7 8 9 0
+background-cliffs-new#C
+background-desert-new#$ L
+background-forest1-new#W E
+background-forest2-new#X O
+background-hills-new#F H
+background-mountain-new#G M Y
+background-opensea-new#&
+background-plains-new#*
+background-seaside-new#Z
+background-swamp-new#^
+background-town-new#3
+background-tundra-new#I

@@ -1,0 +1,7 @@
+2#Toy Ring
+4#Iron Nut
+6#Fools Gold Ring
+8#Shiny Loop
+10#Silver Ring
+12#Rold Ring
+14#Crystal Ring

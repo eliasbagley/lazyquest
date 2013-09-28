@@ -1,0 +1,9 @@
+2#Sandals
+4#Shoes
+6#Boots
+8#Strong Leather Boots
+10#Iron Clodders
+12#Steel-Toed Boots
+14#Greaves
+16#Bone-Cage Boots
+18#Solid-Steel Stompers

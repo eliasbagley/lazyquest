@@ -1,0 +1,5 @@
+Dragonhelm#99 99 99 99 1000
+Dragonboots#99 99 99 99 1000
+Dragonring#99 99 99 99 1000
+Dragonchest#99 99 99 99 1000
+Dragonleggings#99 99 99 99 1000

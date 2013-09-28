@@ -1,0 +1,7 @@
+2#Single Mitten
+4#Soft Wristband
+6#Leather Gloves
+8#Sturdy Gloves
+10#Studded Leather Gloves
+12#Chain Linked Gloves
+14#Iron Handguards

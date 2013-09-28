@@ -1,0 +1,39 @@
+A#Cragkeep
+B#Black Water Bay
+C#Cliffs of Madness
+D#Westkeep
+E#East Trollwood
+F#Frostwolds
+G#Grimspur Mountains
+H#Haunted Hills
+I#Kingdom of Ice
+J#Ravenscaw Keep
+K#Kraken Bay
+L#The Blighted Lands
+M#Mournpeak Mountains
+N#Midberg
+O#Glumwood
+P#Thunder Point
+Q#Stonebrook
+R#Rocport
+S#The Sunken Kingdom
+T#Gulls Rock
+U#Hullbite Bay
+W#West Trollwood
+X#Wood of Wonder
+Y#Wyrmspine Mountains
+Z#Seaside
+*#Plains
+^#Marshland
+$#Desert
+&#The Vast Sea
+1#Snowspire Castle
+2#City of Ghosts
+3#Thornberg
+4#Moonsmeath
+5#Hilltown
+6#Crowskeep
+7#Greenhold
+8#Brunston
+9#Hagshead
+0#Dragonmoor

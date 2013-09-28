@@ -1,0 +1,35 @@
+Polar Bear#I#0.3
+Penguin#I#1.0
+Ice Yeti#I#0.3
+Frost Wolf#I#1.0
+Yordle#* Z#0.3
+Rabbit#* Z#1.0
+Coyote#* Z#1.0
+Moose#* Z#1.0
+Cactus Lord#$#1.0
+Enchanted Lizard#$#1.0
+Evil Troll#E W X O#0.3
+Hunter#E W X O#1.0
+Bear#E W X O#1.0
+Fairy#E W X O#1.0
+Bat#A D J N P Q R T 1 2 3 4 5 6 7 8 9 0#1.0
+Guardsman#A D J N P Q R T 1 2 3 4 5 6 7 8 9 0#0.3
+Mugger#A D J N P Q R T 1 2 3 4 5 6 7 8 9 0#1.0
+Knight#A D J N P Q R T 1 2 3 4 5 6 7 8 9 0#0.3
+Pirate#B U K S#0.3
+Crab#B U K S#1.0
+Pollywog#B U K S#1.0
+Shark#&#1.0
+Yeti#G M Y#0.3
+Snow Deer#G M Y#1.0
+Mountain Goat#G M Y#1.0
+Trapper#G M Y#1.0
+Hunter#G M Y#1.0
+Swamp Lord#^#0.3
+Python#^#1.0
+Large Frog#^#1.0
+Vine Monster#^#0.3
+Ghost#C F H L#1.0
+Zombie#C F H L#1.0
+Lich#C F H L#0.3
+Skeleton Warrior#C F H L#1.0

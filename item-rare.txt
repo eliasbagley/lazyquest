@@ -1,0 +1,32 @@
+Cursed Blade#8#0#33 0 0 0 0
+Phantom Dancer#8#0#0 33 0 0 0
+Vorpal Wand#8#0#0 0 33 0 0
+Unholy Scepter#8#0#0 0 18 18 0
+Blood Caked Boots#8#6#18 0 0 18 300
+Obsidian Leggings#8#4#0 0 18 18 389
+Gloves of Hate#8#5#0 18 18 0 299
+Ring of Dominance#8#7#0 0 33 0 0
+Screaming Helmet#8#2#0 0 18 18 372
+Ogre's Heart#8#9#12 6 9 12 0
+Hellslayer#12#0#41 0 0 0 0
+Snakebite#12#0#0 41 0 0 0
+Lord Dagoths Blade#12#0#0 0 41 0 0
+Bloodcleaver#12#0#25 25 0 0 0
+Napoleon's Boots#12#6#0 41 0 0 477
+Crystal Etched Breastplate#12#3#0 0 25 25 599
+Etheral Gloves#12#5#0 0 41 0 444
+Assassin's Ring#12#7#0 41 0 0 0
+Skull Ring#12#7#25 0 0 0 0
+King's Crown#12#2#20 20 0 21 512
+Chainsaw Blade#16#0H#63 0 0 0 0
+Chainsaw Gun#16#0#0 63 0 0 0
+Staff of Eternity#16#0#0 0 63 0 0
+Infinity Edge#16#0#37 37 0 0 0
+Ring of the Cosmos#16#7#0 0 37 37 0
+Helmet of Imminent Death#16#2#37 37 0 0 862
+Hell Forged Greaves#16#4#0 37 0 37 923
+Mordekaiser's Gauntlets#16#5#37 0 0 37 799
+Ancient Chinese Magic Hat#16#2#0 0 63 0 455
+Sorcerer's Robes#16#3#0 0 37 37 495
+OJ Simpson's Gloves#16#5#0 63 0 0 799
+Sealed Black Hole#16#9#35 35 41 51 0
