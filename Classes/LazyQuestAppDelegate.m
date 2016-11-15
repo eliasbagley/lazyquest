@@ -41,7 +41,8 @@
 	_titleScreenController = [[TitleScreenController alloc] initWithCharacter:_hero andWorld:_world];
 	_navController = [[UINavigationController alloc] initWithRootViewController:_titleScreenController];
 
-	[_window addSubview:[_navController view]];
+    _window.rootViewController = _navController;
+	//[_window addSubview:[_navController view]];
 	[_window makeKeyAndVisible];
 	
 }
